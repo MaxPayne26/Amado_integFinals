@@ -1,0 +1,13 @@
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\bin\Debug\Tanon_MarkAnthony.exe.config
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\bin\Debug\Tanon_MarkAnthony.exe
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\bin\Debug\Tanon_MarkAnthony.pdb
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Amado_edraxar.csproj.AssemblyReference.cache
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Amado_edraxar.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Naje_Joffer.Form1.resources
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Naje_Joffer.frm2.resources
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Tanon_MarkAnthony.Properties.Resources.resources
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Naje_Joffer.ucUserMaintenance.resources
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Amado_edraxar.csproj.GenerateResource.cache
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Amado_edraxar.csproj.CoreCompileInputs.cache
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Tanon_MarkAnthony.exe
+C:\Users\mrred\OneDrive\Desktop\Java\IntegFinals-master\Amado_integFinals\obj\Debug\Tanon_MarkAnthony.pdb
